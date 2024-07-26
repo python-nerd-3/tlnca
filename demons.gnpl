@@ -3,6 +3,7 @@
 
     </head>
     <body>
+    <subheading>The List</subheading>
     <ol>
         <li>lost myself</li>
         <li>ToE III</li>
@@ -12,9 +13,16 @@
         <li>Eggdogs and Pingpong</li>
         <li>Dreamcatcher</li>
     </ol>
-    Potential Future Levels:
+    <subheading>Potential Future Levels:</subheading>
     <ul>
         <li>#2: Magma Bound (63%)</li>
         <li>#2: Crazy (97%)</li>
     </ul>
+    <subheading>Submission Rules:</subheading>
+    <ul>
+        <li>Must be rated</li>
+        <li>Hard Demon+ only</li>
+        <li>Only specific people can submit</li>
+    </ul>
     </body>
+</gnpl>
